@@ -1,2 +1,3 @@
 *.reapeaks
 *.rpp-bak
+.DS_Store
